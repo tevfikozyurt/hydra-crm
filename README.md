@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+1. Hydra CRM Modülü İçin (hidra-crm klasörü)
+Markdown
+# Hydra CRM Modülü
 
-# Run and deploy your AI Studio app
+Bu modül, akıllı su yönetimi sisteminin yönetim panelini ve müşteri ilişkileri süreçlerini yönetir. Projenin idari ve veri işleme merkezidir.
 
-This contains everything you need to run your app locally.
+## 🚀 Özellikler
+- **Yönetim Paneli:** Sistem yöneticileri için kapsamlı kontrol merkezi.
+- **Müşteri Yönetimi:** Kullanıcı profilleri, faturalandırma ve abonelik süreçlerinin takibi.
+- **Veri Raporlama:** Su tüketim verilerinin işlenmesi, geçmişe dönük analizlerin yapılması ve raporlanması.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Aoas9G5muffuPsdynU_Bd7jdPgwv9eLO
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠 Kullanılan Teknolojiler
+- HTML5, CSS3, JavaScript
+- Veri görselleştirme kütüphaneleri
